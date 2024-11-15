@@ -1,2 +1,2 @@
 # A.I-Wine-Quality
-A projcect that uses Matlab to train with Machine Learning an A.I to find the quality of the wines from a list of wines
+A project developed in MATLAB that utilizes machine learning to train an AI model for evaluating the quality of wines from a given dataset.
